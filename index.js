@@ -1,1 +1,1 @@
-module.exports = Object.assign(require("elfjs"), require("./src/lib"));
+module.exports = require("./src/elf-engine");
