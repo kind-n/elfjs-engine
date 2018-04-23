@@ -37,6 +37,5 @@
     "license": "MIT",
     "readme": "./README.md",
     "types": "./index.d.ts",
-    "main": "./index.js",
-    "bin": "./bin/elfjs"
+    "main": "./index.js"
 }
