@@ -13,3 +13,5 @@ declare module "elfjs" {
 
     export function redactByLayout (astObject: Elf.AbstractSyntaxTree, ...depends: (ComponentConstructor | DirectiveConstructor | TransformConstructor)[]): () => JSX.Element;
 }
+
+export = Elf;
